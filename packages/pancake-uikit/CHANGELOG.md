@@ -3,39 +3,6 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
-# [0.62.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.61.0...@pancakeswap/uikit@0.62.0) (2021-12-30)
-
-
-### Features
-
-* List DPT ([#363](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/363)) ([c2a5681](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c2a56818f977891ad80af9d3eff83334c0d19cce))
-
-
-### Performance Improvements
-
-* **uikit:** Remove backdrop filter ([#367](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/367)) ([4d66e7e](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/4d66e7ed433c534bb403e4856ad0617834217cbd))
-
-
-
-
-
-# [0.61.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.60.0...@pancakeswap/uikit@0.61.0) (2021-12-17)
-
-
-### Bug Fixes
-
-* (bunnyslider): Remove visible box shadow on slider thumb in mobile safari ([#360](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/360)) ([c74da59](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/c74da59e3a0c4be9112b3d2d9cadcea4a892956a))
-
-
-### Features
-
-* **uikit:** Add MessageText for Message ([#361](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/361)) ([ccee124](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/ccee12441aa191610fec27bccfd27a78e8ea52c1))
-* **uikit:** Add SmartContract and Swap icon ([#359](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/issues/359)) ([8cd5a68](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/commit/8cd5a68245cf51f93206b47e7761bbe92ef29c74))
-
-
-
-
-
 # [0.60.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.59.0...@pancakeswap/uikit@0.60.0) (2021-12-09)
 
 

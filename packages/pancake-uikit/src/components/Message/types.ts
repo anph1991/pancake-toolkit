@@ -4,7 +4,6 @@ import { SpaceProps } from "styled-system";
 export const variants = {
   WARNING: "warning",
   DANGER: "danger",
-  SUCCESS: "success",
 } as const;
 
 export type Variant = typeof variants[keyof typeof variants];
